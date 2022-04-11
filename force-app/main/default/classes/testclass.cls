@@ -2,6 +2,6 @@ public with sharing class testclass
 {
     public testclass() 
 	{
-        integer i = 10;
+        integer i = 10; //Integer
      }
 }
